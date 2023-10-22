@@ -5,3 +5,6 @@ git config --global user.name ""
 git log
 git log --oneline 
 git log --oneline --pretty
+git remote -v
+git pull origin main
+git clone
