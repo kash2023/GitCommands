@@ -1,3 +1,7 @@
 git init
 git add
 git commit
+git config --global user.name ""
+git log
+git log --oneline 
+git log --oneline --pretty
